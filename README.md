@@ -1,2 +1,1 @@
-# JJs
-Juegos en JavaScript
+# talller-practico-javascript-videogames
